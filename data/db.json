@@ -1,0 +1,88 @@
+{
+    "materials": [
+        {
+            "id": 1,
+            "material_name": "Batu bara",
+            "image": "https://images.unsplash.com/photo-1589007716619-42656585dd85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "weight": "400 Ton",
+            "location": "Kalimantan Selatan"
+        },
+        {
+            "id": 2,
+            "material_name": "Emas",
+            "image": "https://images.unsplash.com/photo-1624365169364-0640dd10e180?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "weight": "230 Ton",
+            "location": "Papua"
+        },
+        {
+            "id": 3,
+            "material_name": "Aspal",
+            "image": "https://images.unsplash.com/photo-1537219921863-2453086934cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "weight": "310 Ton",
+            "location": "Jawa Timur"
+        },
+        {
+            "id": 4,
+            "material_name": "Alumunium",
+            "image": "https://images.unsplash.com/photo-1594255897691-9d1edad1ecfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "weight": "210 Ton",
+            "location": "Papua Barat"
+        },
+        {
+            "id": 5,
+            "material_name": "Gipsum",
+            "image": "https://media.istockphoto.com/photos/white-background-photograph-of-white-gypsum-mineral-found-in-teruel-picture-id1360201714?b=1&k=20&m=1360201714&s=170667a&w=0&h=kxv1ZnQqh2xSRleG0HVi_WpI-OCFrcP3g8rTeQ_XuyA=",
+            "weight": "110 Ton",
+            "location": "Nusa Tenggara Barat"
+        },
+        {
+            "id": 6,
+            "material_name": "Minyak Bumi",
+            "image": "https://images.unsplash.com/photo-1540852304408-b7a4b46914de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+            "weight": "400 Ton",
+            "location": "Riau"
+        },
+        {
+            "id": 7,
+            "material_name": "Timah",
+            "image": "https://images.unsplash.com/photo-1545170127-1abebd200162?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "weight": "140 Ton",
+            "location": "Bangka Belitung"
+        },
+        {
+            "id": 8,
+            "material_name": "Nikel",
+            "image": "https://media.istockphoto.com/photos/small-nugget-of-zinc-on-a-white-background-picture-id155360569?b=1&k=20&m=155360569&s=170667a&w=0&h=Yn9805GBTkX4PTeE7wRc0DkR4zwrbl9eu22zjBC9CgM=",
+            "weight": "120 Ton",
+            "location": "Sulawesi Tenggara"
+        },
+        {
+            "id": 9,
+            "material_name": "Belerang",
+            "image": "https://images.unsplash.com/photo-1627916867778-0a78483edbb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "weight": "80 Ton",
+            "location": "Jambi"
+        },
+        {
+            "id": 10,
+            "material_name": "Bauksit",
+            "image": "https://images.unsplash.com/photo-1568755161140-fdd5f3d10d16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "weight": "70 Ton",
+            "location": "Riau"
+        },
+        {
+            "id": 11,
+            "material_name": "Tembaga",
+            "image": "https://images.unsplash.com/photo-1520811288788-6f2e3da049e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "weight": "200 Ton",
+            "location": "Papua"
+        },
+        {
+            "id": 12,
+            "material_name": "Biji Besi",
+            "image": "https://images.unsplash.com/photo-1533493368540-7c076ccb462b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+            "weight": "100 Ton",
+            "location": "Jawa Barat"
+        }
+    ]
+}
