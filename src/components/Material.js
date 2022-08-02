@@ -8,10 +8,10 @@ const Material = ({ image, alt, name, location }) => {
         alt={alt}
         className="w-44 h-44 object-cover rounded-md"
       />
-      <div className="ml-5 flex flex-col justify-evenly h-full">
-        <h3 className="text-xl font-semibold">{name}</h3>
+      <div className="ml-5 flex flex-col justify-between items-center h-full">
+        <h3 className="text-xl font-semibold text-center">{name}</h3>
 
-        <p className="text-sm text-slate-400 flex items-center">
+        <p className="text-sm text-slate-400 flex items-center mt-4">
           <span className="mr-1">
             <FaMapMarkerAlt />
           </span>
