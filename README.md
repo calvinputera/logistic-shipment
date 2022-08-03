@@ -1,3 +1,8 @@
+# Getting Server Started
+## `json-server --w -p 5000 data/db.json`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
