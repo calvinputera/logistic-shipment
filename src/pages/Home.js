@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import Material from "../components/Material";
 import Detail from "./Detail";
 import axios from "axios";
-import { FaSearch } from "react-icons/fa";
 
 const Home = () => {
   const [data, setData] = useState([]);
@@ -24,17 +23,12 @@ const Home = () => {
 
   return (
     <div className="p-5">
-      <div className="relative md:left-1/4 ">
-        <h1 className="text-3xl font-semibold text-center md:relative right-1/4 mt-2">
-          Materials
-        </h1>
-        <span className="absolute text-2xl text-gray-300 top-[5.2rem] right-5 md:top-20 md:right-[25rem] lg:right-[37rem]">
-          <FaSearch />
-        </span>
+      <div className="md:flex md:flex-col md:justify-center md:items-center">
+        <h1 className="text-3xl font-semibold text-center mt-2">Materials</h1>
         <input
           type="text"
-          placeholder="search material.."
-          className="p-4 border-2 w-full mt-7 rounded-xl text-lg md:w-1/2"
+          placeholder="search material here.."
+          className="p-4 border-2 w-full mt-7 rounded-xl text-lg text-center md:w-1/2"
           onChange={(e) => setSearch(e.target.value)}
         />
       </div>
